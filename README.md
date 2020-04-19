@@ -1,2 +1,15 @@
-# umi-actions
-umi 持续集成
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
