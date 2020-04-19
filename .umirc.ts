@@ -5,5 +5,6 @@ export default defineConfig({
     type: 'none',
   },
   publicPath: './',
+  history: { type: 'hash' },
   routes: [{ path: '/', component: '@/pages/index' }],
 });
